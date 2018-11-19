@@ -1,0 +1,75 @@
+CS260 - Assignment 3 - Your Name
+
+----------------------------------------------------------------------------
+
+no stocks
+
+----------------------------------------------------------------------------
+
+IBM not found (hc 0x00011A54, hi  9, ui -1, sl  1)
+added IBM     (hc 0x00011A54, hi  9, ui  9, sl  1)
+
+----------------------------------------------------------------------------
+
+symbol  name                                      price   date
+------  ----                                      -----   ----
+IBM     International Business Machines           25.73   May 23, 1967
+
+----------------------------------------------------------------------------
+
+found IBM     (hc 0x00011A54, hi  9, ui  9, sl  1)
+removed IBM   (hc 0x00011A54, hi  9, ui  9, sl  1)
+IBM not found (hc 0x00011A54, hi  9, ui -1, sl  2)
+IBM not removed
+added MLT     (hc 0x00012A95, hi 10, ui 10, sl  1)
+added IBM     (hc 0x00011A54, hi  9, ui  9, sl  1)
+added XRX     (hc 0x0001549E, hi  7, ui  7, sl  1)
+added US:BA   (hc 0x04D46A9B, hi  7, ui  8, sl  2)
+added GD      (hc 0x000008DD, hi  7, ui 11, sl  5)
+added AAPL    (hc 0x001E8A1C, hi  8, ui 12, sl  5)
+AAPL not added
+added GE      (hc 0x000008DE, hi  8, ui  0, sl  6)
+added ATT     (hc 0x0000FE81, hi 10, ui  1, sl  5)
+
+----------------------------------------------------------------------------
+
+symbol  name                                      price   date
+------  ----                                      -----   ----
+GE      General Electric                          19.48   March 22, 1987
+ATT     American Telephone & Telegraph             0.20   May 10, 1998
+XRX     Xerox                                     18.92   June 1, 1980
+US:BA   Boeing                                    64.07   December 14, 1993
+IBM     International Business Machines           25.73   May 23, 1967
+MLT     MLT Software, Inc.                         8.00   April 18, 1988
+GD      General Dynamics                          72.81   October 24, 2006
+AAPL    Apple Computer, Inc.                      23.08   May 1, 1980
+
+----------------------------------------------------------------------------
+
+found ATT     (hc 0x0000FE81, hi 10, ui  1, sl  5)
+removed AAPL  (hc 0x001E8A1C, hi  8, ui 12, sl  5)
+AAPL not removed
+found ATT     (hc 0x0000FE81, hi 10, ui  1, sl  5)
+removed US:BA (hc 0x04D46A9B, hi  7, ui  8, sl  2)
+found GE      (hc 0x000008DE, hi  8, ui  0, sl  6)
+removed GE    (hc 0x000008DE, hi  8, ui  0, sl  6)
+found ATT     (hc 0x0000FE81, hi 10, ui  1, sl  5)
+added AAPL    (hc 0x001E8A1C, hi  8, ui  8, sl  1)
+added GE      (hc 0x000008DE, hi  8, ui 12, sl  5)
+added US:BA   (hc 0x04D46A9B, hi  7, ui  0, sl  7)
+
+----------------------------------------------------------------------------
+
+symbol  name                                      price   date
+------  ----                                      -----   ----
+US:BA   Boeing                                    64.07   December 14, 1993
+ATT     American Telephone & Telegraph             0.20   May 10, 1998
+XRX     Xerox                                     18.92   June 1, 1980
+AAPL    Apple Computer, Inc.                      23.08   May 1, 1980
+IBM     International Business Machines           25.73   May 23, 1967
+MLT     MLT Software, Inc.                         8.00   April 18, 1988
+GD      General Dynamics                          72.81   October 24, 2006
+GE      General Electric                          19.48   March 22, 1987
+
+----------------------------------------------------------------------------
+
